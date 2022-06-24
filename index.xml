@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="dagexu" commit="e0536594d367b824bd76a81e950b0bc1bc78d07a">
+  <category name="Change default fades">
+    <reapack name="dagexu.lua" type="script" desc="Change default fades">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Allows you to change default fades quickly via shortcut or toolbar icons.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="dagexu" time="2022-06-24T08:47:36Z">
+        <changelog><![CDATA[+ Initial commit]]></changelog>
+        <source main="main" file="DSY_批量删除time selection下的marker和region.lua">https://raw.githubusercontent.com/a-hua/0623/7a06a43e5dfe3d234154e715b9b07502a12a0aeb/DSY_%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4time%20selection%E4%B8%8B%E7%9A%84marker%E5%92%8Cregion.lua</source>
+        <source main="main" file="并轨bounce_ausbaxter_Render item columns.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E5%B9%B6%E8%BD%A8bounce_ausbaxter_Render%20item%20columns.lua</source>
+		<source main="main" file="从选中item创建region并去后缀.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E4%BB%8E%E9%80%89%E4%B8%ADitem%E5%88%9B%E5%BB%BAregion%E5%B9%B6%E5%8E%BB%E5%90%8E%E7%BC%80.lua</source>
+		<source main="main" file="单点标记批量搜索替换名称acendan_Find and Replace in Marker Names.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E5%8C%BA%E5%9F%9F%E6%A0%87%E8%AE%B0%E6%89%B9%E9%87%8F%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E5%90%8D%E7%A7%B0acendan_Find%20and%20Replace%20in%20Region%20Names.lua</source>
+		<source main="main" file="区域标记批量搜索替换名称acendan_Find and Replace in Region Names.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E5%8C%BA%E5%9F%9F%E6%A0%87%E8%AE%B0%E6%89%B9%E9%87%8F%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E5%90%8D%E7%A7%B0acendan_Find%20and%20Replace%20in%20Region%20Names.lua</source>
+		<source main="main" file="所选item批量重命名Rename Sel Take.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E6%89%80%E9%80%89item%E6%89%B9%E9%87%8F%E9%87%8D%E5%91%BD%E5%90%8DRename%20Sel%20Take.lua</source>
+		<source main="main" file="渲染不同轨道到新轨道Yanick_Mixdown selection.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E6%B8%B2%E6%9F%93%E4%B8%8D%E5%90%8C%E8%BD%A8%E9%81%93%E5%88%B0%E6%96%B0%E8%BD%A8%E9%81%93Yanick_Mixdown%20selection.lua</source>
+		<source main="main" file="移动items道脚本me2beats_Move items to selected track.lua">https://raw.githubusercontent.com/a-hua/0623/main/%E7%A7%BB%E5%8A%A8items%E9%81%93%E8%84%9A%E6%9C%ACme2beats_Move%20items%20to%20selected%20track.lua</source>
+		<source main="main" file="在光标处平均分割对象Split selected item into equal length parts (at edit cursor).lua">https://raw.githubusercontent.com/a-hua/0623/main/%E5%8C%BA%E5%9F%9F%E6%A0%87%E8%AE%B0%E6%89%B9%E9%87%8F%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E5%90%8D%E7%A7%B0acendan_Find%20and%20Replace%20in%20Region%20Names.lua</source>
+		<source main="main" file="在鼠标处平均分割对象Split selected item into equal length parts (at mouse cursor).lua">https://raw.githubusercontent.com/a-hua/0623/main/%E5%9C%A8%E9%BC%A0%E6%A0%87%E5%A4%84%E5%B9%B3%E5%9D%87%E5%88%86%E5%89%B2%E5%AF%B9%E8%B1%A1Split%20selected%20item%20into%20equal%20length%20parts%20(at%20mouse%20cursor).eel</source>
+      </version>
+    </reapack>
+  </category>
+ 
+</index>
